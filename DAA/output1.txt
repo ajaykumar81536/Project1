@@ -1,0 +1,20 @@
+Initial player list: plyr5 plyr2 plyr4 plyr3 plyr1 plyr6 
+
+Tournament Tree:
+
+Match: plyr5 vs plyr2 --> Winner: plyr2
+Match: plyr4 vs plyr3 --> Winner: plyr3
+Match: plyr1 vs plyr6 --> Winner: plyr6
+
+Players in this round: plyr5 plyr2 plyr4 plyr3 plyr1 plyr6 
+Match: plyr2 vs plyr3 --> Winner: plyr3
+Match: plyr6 vs  --> Winner: plyr6
+
+Players in this round: plyr2 plyr3 plyr6 
+Match: plyr3 vs plyr6 --> Winner: plyr6
+
+Players in this round: plyr3 plyr6 
+
+The ultimate winner is: plyr6
+
+Thank you !!

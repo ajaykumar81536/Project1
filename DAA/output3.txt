@@ -1,0 +1,25 @@
+Sorted list of stdnts with respect to marks obtained in math:
+CSB22051 - 66 marks
+CSB22065 - 75 marks
+CSB22047 - 80 marks
+CSB22050 - 85 marks
+CSB22060 - 90 marks
+
+List of stdnts in the range [70, 90] in math:
+CSB22060 - 90 marks
+CSB22047 - 80 marks
+CSB22050 - 85 marks
+CSB22065 - 75 marks
+
+List of stdnts in the range [60, 80] in bio:
+CSB22047 - 75 marks
+CSB22065 - 70 marks
+CSB22051 - 80 marks
+
+Decision of the principal for all the stdnts:
+CSB22060 - ENNG
+CSB22047 - MED
+CSB22050 - ENNG
+CSB22065 - MED
+CSB22051 - ENNG
+

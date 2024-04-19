@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Smiley Face</title>
+  <style>
+    .face {
+      width: 100px;
+      height: 100px;
+      border-radius: 50%;
+      background-color: yellow;
+      position: relative;
+    }
+
+    .eye {
+      width: 20px;
+      height: 20px;
+      border-radius: 50%;
+      background-color: black;
+      position: absolute;
+    }
+
+    .left-eye {
+      top: 30%;
+      left: 30%;
+    }
+
+    .right-eye {
+      top: 30%;
+      right: 30%;
+    }
+
+    .mouth {
+      width: 40px;
+      height: 20px;
+      border-bottom-left-radius: 50%;
+      border-bottom-right-radius: 50%;
+      border: 2px solid black;
+      border-top: none;
+      position: absolute;
+      top: 50%;
+      left: 30%;
+    }
+  </style>
+</head>
+<body>
+  <div class="face">
+    <div class="eye left-eye"></div>
+    <div class="eye right-eye"></div>
+    <div class="mouth"></div>
+  </div>
+</body>
+</html>
